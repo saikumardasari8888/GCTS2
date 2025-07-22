@@ -1,3 +1,3 @@
   method Z_SA2_METHOD.
-    "Method Test 1
+    "Method 23:02
   endmethod.
